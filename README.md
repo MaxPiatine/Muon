@@ -1,5 +1,5 @@
 # Introduction
-The top of the earth's atmosphere is composed of multiple molecules and high energy particles. From what we understand it is composed of "$98\%$ of the particles (in our atmosphere) are protons or heavier nuclei and $2\%$ are electrons. Of the protons and nuclei, $87\%$ are protons, $12\%$ helium nuclei.." states the author of the Muon Lifetimes Equipment Manual. However, the primary cosmic ray that showers the nuclei, happens to make particles such as protons, neutrons, electrons, photons, etc. After the first process, these particles will then undergo an electromagnetic and nuclear interaction. Some of these particles then interact with the weak force, such particles are known as the muons. Muons are particles that interact with the weak and electromagnetic forces, it is a heavier version than the electron, and hit earth from all different angles at the speed of light. The cosmic ray induced by ray proton hit an air molecule producing pions $\pi$. Pions then decay and turn into muons after a short period of time. 
+The top of the earth's atmosphere is composed of multiple molecules and high energy particles. From what we understand it is composed of $98$% of the particles (in our atmosphere) are protons or heavier nuclei and $2$% are electrons. Of the protons and nuclei, $87$% are protons, $12$% helium nuclei.." states the author of the Muon Lifetimes Equipment Manual. However, the primary cosmic ray that showers the nuclei, happens to make particles such as protons, neutrons, electrons, photons, etc. After the first process, these particles will then undergo an electromagnetic and nuclear interaction. Some of these particles then interact with the weak force, such particles are known as the muons. Muons are particles that interact with the weak and electromagnetic forces, it is a heavier version than the electron, and hit earth from all different angles at the speed of light. The cosmic ray induced by ray proton hit an air molecule producing pions $\pi$. Pions then decay and turn into muons after a short period of time. 
 
 $\pi^+\rightarrow \mu^+\text{v}_{\mu}$
 
@@ -10,8 +10,10 @@ Negative muons have a shorter lifetime in the scintillator than positive muons, 
 
 $\mu^-+p \rightarrow n+v_{\mu}$
 
-
-    \includegraphics[width=8cm]{process.png}\\\small\textbf{figure1}: Cosmic ray proton colliding with an air molecule nucleus. $\mu^+$ and $\mu^-$ are the muons, one being positive and one negative.
+<p align="center">
+    <img height="500px" src="process.png"><br />
+    Figure 1: Cosmic ray proton colliding with an air molecule nucleus. $\mu^+$ and $\mu^-$ are the muons, one being positive and one negative.
+</p>
 
 
 The decay times for a muon are represented mathematically as:
